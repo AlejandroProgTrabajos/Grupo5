@@ -1,0 +1,91 @@
+1644261706
+s:6217:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Así funciona el nuevo módulo de PrestaShop Marketing con Google</title>
+    <link>https://www.prestashop.com/es/blog/funcionamiento-prestashop-marketing-google</link>
+    <description>Una de las últimas incorporaciones a PrestaShop Essentials es el nuevo módulo de PrestaShop Marketing with Google.</description>
+     <pubDate>Thu, 27 Jan 2022 18:52:19 +0100</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/funcionamiento-prestashop-marketing-google</guid>
+  </item>
+  <item>
+    <title>Error http 404 : ¿qué es y cómo solucionarlo en tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/http-error-404</link>
+    <description>¿Has oído hablar del &quot;http error 404&quot; alguna vez?</description>
+     <pubDate>Tue, 25 Jan 2022 10:50:43 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/http-error-404</guid>
+  </item>
+  <item>
+    <title>SEO en páginas de categorías en un eCommerce: el poder de la optimización</title>
+    <link>https://www.prestashop.com/es/blog/seo-en-paginas-de-categorias</link>
+    <description>Las páginas de categorías de ecommerce son muy importantes para atraer y convertir a los compradores. Las categorías</description>
+     <pubDate>Thu, 13 Jan 2022 17:24:44 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/seo-en-paginas-de-categorias</guid>
+  </item>
+  <item>
+    <title>¿Qué puede aportar un Test A/B con Google Optimize a tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/ab-test-google-ecommerce</link>
+    <description>Si tienes un negocio, ya sabrás que sí o sí deben estar en Internet para llegar a más gente, darte a conocer y aumentar tus ventas, ¿verdad?</description>
+     <pubDate>Mon, 10 Jan 2022 14:24:12 +0100</pubDate>
+ <dc:creator>Sandra Bernad Martínez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/ab-test-google-ecommerce</guid>
+  </item>
+  <item>
+    <title>Cómo aprovechar el tráfico de pago en redes sociales para tus ventas</title>
+    <link>https://www.prestashop.com/es/blog/aprovechar-trafico-pago</link>
+    <description>Tu tienda online puede llegar a concentrar muchos compradores en época navideña, pero a veces para atraer más clientes o acceder a un nuevo target, es necesario que salgas a buscarlos.</description>
+     <pubDate>Mon, 10 Jan 2022 13:08:42 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/aprovechar-trafico-pago</guid>
+  </item>
+  <item>
+    <title>Diez tendencias claves eCommerce para 2022</title>
+    <link>https://www.prestashop.com/es/blog/ecommerce-tendencias-2022</link>
+    <description>La pandemia permitió que el comercio electrónico avance de forma espectacular.</description>
+     <pubDate>Tue, 04 Jan 2022 11:34:12 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/ecommerce-tendencias-2022</guid>
+  </item>
+  <item>
+    <title>Los mejores módulos para convertir tráfico en ventas esta Navidad</title>
+    <link>https://www.prestashop.com/es/blog/modulos-navidad-prestashop</link>
+    <description>Por motivos obvios la Navidad es el período del año en el que las tiendas online tienen más actividad.</description>
+     <pubDate>Mon, 03 Jan 2022 10:54:17 +0100</pubDate>
+ <dc:creator>Alejandro Ramos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-navidad-prestashop</guid>
+  </item>
+  <item>
+    <title>¿Cómo puedo atraer nuevos usuarios a mi tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/estrategias-atraccion-clientes</link>
+    <description>El comercio electrónico ha crecido mucho en la última década.</description>
+     <pubDate>Wed, 29 Dec 2021 12:50:20 +0100</pubDate>
+ <dc:creator>Sandra Bernad Martínez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/estrategias-atraccion-clientes</guid>
+  </item>
+  <item>
+    <title>La sostenibilidad, un factor con cada vez más peso para los compradores</title>
+    <link>https://www.prestashop.com/es/blog/sostenibilidad-ecommerce</link>
+    <description>La mayoría de los clientes potenciales de una tienda online saben que la sostenibilidad es un factor de vital importancia. A mayor rapidez de entrega, más contaminación.</description>
+     <pubDate>Wed, 29 Dec 2021 10:18:06 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/sostenibilidad-ecommerce</guid>
+  </item>
+  <item>
+    <title>Live Streaming eCommerce, la revolución del comercio electrónico</title>
+    <link>https://www.prestashop.com/es/blog/live-streaming-ecommerce</link>
+    <description>El COVID-19 ha supuesto un auténtico shock a nivel mundial, ya no solo a nivel de relaciones o en la manera en la que realizamos algunas tareas, también ha tocado de pleno tanto al comercio tradici</description>
+     <pubDate>Wed, 29 Dec 2021 09:59:51 +0100</pubDate>
+ <dc:creator>Sandra Bernad Martínez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/live-streaming-ecommerce</guid>
+  </item>
+  </channel>
+</rss>
+";
